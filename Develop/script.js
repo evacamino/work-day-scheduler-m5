@@ -1,4 +1,3 @@
-nes (23 sloc)  1.25 KB
 
 // Wrap all code that interacts with the DOM in a call to jQuery to ensure that
 // the code isn't run until the browser has finished rendering all the elements
